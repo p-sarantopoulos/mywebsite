@@ -4,12 +4,14 @@ title: Teaching
 # Use markdown below to add content. 
 ---
 
-### Current
+### Athens University of Economics and Business
 
-- Course 1 
-- Course 2 
+- Principles of Marketing (Undergraduate Year 1)
+- Digital Marketing (Undergraduate Year 4)
+- Business/Marketing Analytics (MSc, MBA)
 
-### Past 
+### The University of Manchester
 
-- Course 3 
-- Course 4 
+- Quantitative Methods for Business and Management (Undergraduate Year 1)
+- Digital Marketing Essentials for Leaders (Executive)
+

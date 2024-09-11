@@ -1,0 +1,36 @@
+---
+title: "Customer experience management in the age of big data analytics: A strategic framework"
+date: "June 16, 2020" # publication date -> year will be in the publication list 
+date-format: "2020" # only display year in item page 
+
+# Below add respective buttons to the list in the research page. To remove buttons that are not needed, just remove the respective link here. 
+publink: "https://www.sciencedirect.com/science/article/pii/S0148296320300345" # "Paper" button 
+#wplink: "https://eprints.lancs.ac.uk/id/eprint/192034/1/PRVs_manuscript_2023.02.17.pdf"  # "Working Paper" button
+#codelink: "https://github.com/" # "Code" button
+#videolink: "https://www.youtube.com/" # "Video" button
+# Publication information, which appears . 
+journ: "Journal of Business Research" 
+issue: "116, 356-365"
+
+# Link to the image that will appear in the research list and on the project page. If no image should appear, just remove the link here. 
+#image: "../images/project3.png"
+format: 
+  html:
+    page-layout: article
+    template-partials: 
+      - "../partials/title-block.html" # custom HTML partial that determines how the title block is displayed (with image, author and journal information). 
+
+# Coauthor information that will be displayed on the research list and on the project page. 
+coauthors:
+  - name: "Maria Holmlund"
+  - name: "Yves Van Vaerenbergh"
+  - name: "Robert Ciuchita"
+  - name: "Annika Ravald"
+  - name: "Francisco Villarroel Ordenes"
+  - name: "Mohamed Zaki" #link: "https://link.to.website/" # add link to co-author's website here. If no link should appear, just remove the link here.
+    
+---
+
+### Abstract
+
+Customer experience (CX) has emerged as a sustainable source of competitive differentiation. Recent developments in big data analytics (BDA) have exposed possibilities to unlock customer insights for customer experience management (CXM). Research at the intersection of these two fields is scarce and there is a need for conceptual work that (1) provides an overview of opportunities to use BDA for CXM and (2) guides management practice and future research. The purpose of this paper is therefore to develop a strategic framework for CXM based on CX insights resulting from BDA. Our conceptualisation is comprehensive and is particularly relevant for researchers and practitioners who are less familiar with the potential of BDA for CXM. For managers, we provide a step-by-step guide on how to kick-start or implement our strategic framework. For researchers, we propose some opportunities for future studies in this promising research area.

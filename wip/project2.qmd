@@ -1,0 +1,22 @@
+---
+title: "Shopper AI: A taxonomy and implications of artificial intelligence in consumer buying decisions and purchases"
+date: "2024"
+date-format: "YYYY"
+
+format: 
+  html:
+    page-layout: article
+    #image: "../images/wip2.png"
+    template-partials: 
+      - "../partials/title-block.html"
+
+coauthors:
+  - name: "Kathleen Kennedy"
+  - name: "Hongwei He"
+
+---
+
+
+### Abstract 
+
+Shopper AI (artificial intelligence) applications are customer-facing intelligent computational systems that can assist, personalize, and enhance the consumer shopping experience throughout the customer journey. This paper introduces the Shopper AI Taxonomy, a comprehensive framework for classifying and understanding AI applications that directly engage with consumers throughout the shopping process. Grounded in the Computers Are Social Actors (CASA) paradigm and the dimensions of competence and warmth from human-robot interaction research; the taxonomy is organized within two meta-characteristics, AI Capabilities and AI Parasocial Skills and encompasses 14 dimensions and 62 characteristics. We situate shopper AI within service ecosystems and conceptualize Shopper AI as operant resources in value cocreation processes. The Shopper AI Taxonomy provides a foundation for theory development, identification of research gaps, and comparative analyses. For practitioners, the taxonomy serves as a tool to evaluate capabilities and potential impact of shopper AI solutions, guide the design and deployment of shopper AI technologies to enhance the customer experience, drive value cocreation, and support strategic objectives. We demonstrate practical applications of the taxonomy in assessing the state of shopper AI, conducting longitudinal analyses, and forecasting the trajectory of shopper AI development. This can ultimately inform managerial decision-making in AI-driven customer engagement.

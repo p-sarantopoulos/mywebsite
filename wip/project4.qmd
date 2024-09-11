@@ -1,0 +1,21 @@
+---
+title: "Navigating sustainability: The impact of retailers’ location strategy on consumer reactions to environmental sustainability initiatives"
+date: "2024"
+date-format: "YYYY"
+
+format: 
+  html:
+    page-layout: article
+    #image: "../images/wip4.png"
+    template-partials: 
+      - "../partials/title-block.html"
+
+coauthors:
+  - name: "Hongwei He"
+
+---
+
+
+### Abstract 
+
+Retailers are under increased scrutiny for their role on the global environmental emergency and need to scale up their sustainability agenda. However, the decision on where to focus their efforts poses a challenge. In this research, the authors explore how retailers’ location strategy (domestic vs foreign) in environmental sustainability initiatives can affect consumers. Across six experimental studies, they find that, compared to foreign, retailers’ domestic environmental sustainability initiatives lead to more favorable consumer reactions. They also identify that such decisions should be informed by the retailer’s existing sustainability performance and consumers’ local-global identity. Although, domestic (vs foreign) initiatives can generate more favorable consumer responses, this is more prominent for retailers with a poor record of sustainability performance. For retailers with a good record, the impact is similar, regardless of its location. Furthermore, consumers with a local identity react more favorably to domestic (vs foreign) initiatives. Contrarily, consumers with a global identity react similarly regardless of the initiative’s location. The authors tested and supported this conceptual model in the fast fashion sector and provide implications for the location strategy of environmental sustainability investments, particularly for retailers new to this game.

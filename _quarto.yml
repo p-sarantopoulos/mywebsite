@@ -4,7 +4,7 @@ project:
     - files/cv.pdf
 
 website:
-  title: "John Doe Title" # website title, this is what's displayed on the top
+  title: "Panagiotis Sarantopoulos" # website title, this is what's displayed on the top
   navbar: # Options for website navigation (including bar). For alternatives see https://quarto.org/docs/websites/website-navigation.html
     left: # links displayed in navigation bar
       - href: index.qmd
@@ -13,8 +13,12 @@ website:
         text: Research 
       - href: teaching.qmd
         text: Teaching
-      - href: code.qmd
-        text: Code
+      - href: supervision.qmd
+        text: Supervision
+      - href: recommendations.qmd
+        text: Recommendations
+      - href: erasmus.qmd
+        text: Erasmus
     search: false
 
 
@@ -26,6 +30,7 @@ format:
     theme: litera
     css: styles.css # custom file to adjust some css options 
     toc: false
+    link-external-newwindow: true
 
 
 

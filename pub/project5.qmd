@@ -1,0 +1,34 @@
+---
+title: "Additive omnichannel atmospheric cues: The mediating effects of cognitive and affective responses on purchase intention"
+date: "September 11, 2022" # publication date -> year will be in the publication list 
+date-format: "2022" # only display year in item page 
+
+# Below add respective buttons to the list in the research page. To remove buttons that are not needed, just remove the respective link here. 
+publink: "https://www.sciencedirect.com/science/article/abs/pii/S0969698921002976" #"https://doi.org/10.1016/j.jretconser.2021.102731" # "Paper" button 
+
+#wplink: "https://eprints.lancs.ac.uk/id/eprint/192034/1/PRVs_manuscript_2023.02.17.pdf"  # "Working Paper" button
+#codelink: "https://github.com/" # "Code" button
+#videolink: "https://www.youtube.com/" # "Video" button
+# Publication information, which appears . 
+journ: "Journal of Retailing and Consumer Services" 
+issue: "64, 102731"
+
+# Link to the image that will appear in the research list and on the project page. If no image should appear, just remove the link here. 
+#image: "../images/project5.png"
+format: 
+  html:
+    page-layout: article
+    template-partials: 
+      - "../partials/title-block.html" # custom HTML partial that determines how the title block is displayed (with image, author and journal information). 
+
+# Coauthor information that will be displayed on the research list and on the project page. 
+coauthors:
+  - name: "Chris Lazaris" #link: "https://link.to.website/" # add link to co-author's website here. If no link should appear, just remove the link here.
+  - name: "Adam Vrechopoulos"
+  - name: "Georgios Doukidis"
+    
+---
+
+### Abstract
+
+In today's channel-centric retail ecosystem the right mix and orchestration of online and offline stimulus is paramount towards providing an optimal store atmosphere and shopping experience. Applying the S-O-R framework, this research explores additive omnichannel atmospheric cues stimuli, in order to discover their impact on affective (i.e., pleasure, arousal and dominance) and cognitive (i.e., store environmental quality perception) states and their consequential effect on consumer responses in the form of purchase intention. Employing a four-condition repeated measures experimental design in a physical store, utilizing mobile, IoT and social media channels (Study 1), as well as a between-subjects online lab experiment (Study 2), this research sheds light into the affective and cognition-mediated causal mechanisms that influence shopping outcomes. This work reveals that combining stimulus from all retail channels within the physical store (i.e., omnichannel atmospheric cues) increases consumers' pleasure, arousal and the quality of the environment as a whole, which in turn positively influences purchase intention. However, the impact of dominance is only prominent at the more controlled, laboratory setting, in which purchase intention increases while dominance attenuates.

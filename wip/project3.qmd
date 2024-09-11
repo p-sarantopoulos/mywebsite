@@ -1,16 +1,23 @@
 ---
-title: "New Project"
+title: "AI service rejection and its impact on customer satisfaction"
 date: "2024"
 date-format: "YYYY"
 
 format: 
   html:
     page-layout: article
+    #image: "../images/wip3.png"
     template-partials: 
       - "../partials/title-block.html"
+
+coauthors:
+  - name: "Nan Liu"
+  - name: "Sumin Kim"
+  - name: "Hongwei He"
+
 ---
 
 
 ### Abstract 
 
-We will do interesting research. 
+Given the widespread use of artificial intelligence (AI) in the service sector, it is pertinent to examine whether service application rejection decisions made by AI, compared to those made by human agents, impact customer satisfaction. This research finds that consumers are generally less satisfied when their service applications are rejected by AI rather than by human agents. This effect occurs because consumers are more likely to blame AI for the rejection than human agents. Furthermore, our research reveals that perceived moral basis for rejection can moderate this effect. Specifically, the adverse effect of an AI-made rejection is observed only for rejections perceived to be made on non-moral grounds. For rejections perceived to be based on moral grounds, consumers show similar levels of dissatisfaction regardless of whether the rejection comes from AI or a human, as they tend to attribute blame equally in both cases. Our research also explores the role of explanations in moderating these effects. Specifically, we found that teleological explanations (i.e., explaining why a rejection decision was made) are more effective than mechanistic explanations (i.e., explaining how a rejection decision was made) in mitigating the adverse effect of AI-made rejections. This study contributes to the ongoing debate on how consumers respond to decisions, especially unfavorable ones, made by AI.

@@ -1,6 +1,6 @@
 ---
-title: "John Doe" # This is the Name that appears on the landing page
-image: images/avatar.jpg # This is the image that appears on the landing page
+title: "Panagiotis Sarantopoulos" # This is the Name that appears on the landing page
+image: images/p.sarantopoulos.png # This is the image that appears on the landing page
 about:   
     template: solana # see other templates at https://quarto.org/docs/websites/website-about.html#templates
     image-width: 10em
@@ -16,10 +16,15 @@ about:
 # Below, we can add any custom text using Markdown syntax. 
 ---
 
-I am John Doe and I do interesting research. 
+Welcome to my personal website. I am an Assistant Professor of Marketing at Athens University of Economics and Business. I am also a part-time Senior Lecturer (Associate Professor) at The University of Manchester. 
 
-### Resarch Interests 
-Interest 1, Interest 2, Interest 3
+### Research Interests 
+Retailing and pricing, digital marketing, AI and consumer research
 
-### Office
-Room, Street, City, Country
+### Address
+Department of Business Administration <br>
+School of Business <br>
+Athens University of Economics and Business <br>
+Patision 76, 104 34, Athens, Greece <br>
+Tel.: (+30) 210 8203 516 <br>
+Email: p [dot] sarantopoulos [at] aueb [dot] gr

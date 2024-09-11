@@ -1,0 +1,55 @@
+---
+title: "Source, message and medium? The role of personal values in forming credibility perceptions of non-sponsored product review videos" 
+date: "April 24, 2023" # publication date -> year will be in the publication list 
+date-format: "2023" # only display year in item page 
+
+# Below add respective buttons to the list in the research page. To remove buttons that are not needed, just remove the respective link here. 
+publink: "https://doi.org/10.1108/EJM-10-2021-0785" # "Paper" button 
+#wplink: "https://eprints.lancs.ac.uk/id/eprint/192034/1/PRVs_manuscript_2023.02.17.pdf"  # "Working Paper" button
+#codelink: "https://github.com/" # "Code" button
+#videolink: "https://www.youtube.com/" # "Video" button
+# Publication information, which appears . 
+journ: "European Journal of Marketing" 
+issue: "57(5):1272-1297"
+
+# Link to the image that will appear in the research list and on the project page. If no image should appear, just remove the link here. 
+#image: "../images/project6.png"
+format: 
+  html:
+    page-layout: article
+    template-partials: 
+      - "../partials/title-block.html" # custom HTML partial that determines how the title block is displayed (with image, author and journal information). 
+
+# Coauthor information that will be displayed on the research list and on the project page. 
+coauthors:
+  - name: "Ghadeer Alsaeed" #link: "https://link.to.website/" # add link to co-author's website here. If no link should appear, just remove the link here.
+  - name: "Kathleen Keeling"
+  - name: "Eman Gadalla"
+    
+---
+
+### Abstract
+
+#### Purpose
+
+This paper aims to investigate an integrated, holistic assessment of the characteristics by which consumers judge non-sponsored product review video (PRV) source, message and medium components as credible, and how these are linked to personal values for a deeper understanding of multidimensional credibility assessments of PRVs.
+
+#### Design/methodology/approach
+
+Employing a means-end approach, the authors draw on credibility theory and the persuasion knowledge model to analyse data from 21 in-depth semi-structured laddering interviews.
+
+#### Findings
+
+First, the authors demonstrate distinctive contributions of the video modality towards PRV credibility assessments and the interplay between specific PRV characteristics, cognitive and socio-emotional consequences, and personal values in an ongoing process of credibility assessment. Second, high persuasion knowledge creates awareness of the potential phoniness of the market, revealing a dark side to PRV use even in non-sponsored PRV seemingly created and shared as an act of benevolent concern between consumers.
+
+#### Research limitations/implications
+
+This paper focused on the credibility of non-sponsored PRVs, future studies might investigate motivations and attributes by which users judge sponsored reviews. Also, the roles of specific product categories and existing brand trust on PRVs credibility provide avenues for further research.
+
+#### Practical implications
+
+This research offers practical implications for reviewers and brand managers to leverage the unique informational values of video by focusing on the interplay between credibility attributes and customer values.
+
+#### Originality/value
+
+This work advances credibility theory in the PRV context by examining how non-sponsored PRVs are evaluated as credible, by highlighting consumer persuasion knowledge and scepticism and including the holistic effects of the interplay between source, message and video format characteristics and by linking these to consumers’ goals and values.

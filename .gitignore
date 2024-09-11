@@ -4,3 +4,4 @@
 /.quarto/
 *README_files 
 README.html
+.Rproj.user

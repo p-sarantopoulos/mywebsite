@@ -1,30 +1,31 @@
 ---
-title: "Publication 1" 
-date: "01-01-2023" # publication date -> year will be in the publication list 
-date-format: "YYYY" # only display year in item page 
+title: "Shopping missions: An analytical method for the identification of shopper need states"
+date: "January 1, 2016" # publication date -> year will be in the publication list 
+date-format: "2016" # only display year in item page 
+
 # Below add respective buttons to the list in the research page. To remove buttons that are not needed, just remove the respective link here. 
-publink: "https://pubsonline.informs.org/" # "Paper" button 
-wplink: "https://arxiv.org/"  # "Working Paper" button
-codelink: "https://github.com/" # "Code" button
-videolink: "https://www.youtube.com/" # "Video" button
-# Publication information, which appears . 
-journ: "Journal of Interesting Research" 
-issue: "1(1):1-30"
+publink: "https://www.sciencedirect.com/science/article/abs/pii/S0148296315003549" # "Paper" button 
+
+# Publication information, which appears
+journ: "Journal of Business Research" 
+issue: "69(3), 1043-1052"
+
 # Link to the image that will appear in the research list and on the project page. If no image should appear, just remove the link here. 
-image: "../images/project1.png"
+# image: "../images/project1.png"
 format: 
   html:
     page-layout: article
     template-partials: 
       - "../partials/title-block.html" # custom HTML partial that determines how the title block is displayed (with image, author and journal information). 
+
 # Coauthor information that will be displayed on the research list and on the project page. 
 coauthors:
-  - name: "Jane Doe"
-    link: "https://link.to.website/" # add link to co-author's website here. If no link should appear, just remove the link here.
-  - name: "Josh Doe"
-    link: "https://link.to.website/"
+  - name: "Aristeidis Theotokis"
+  - name: "Katerina Pramatari"
+  - name: "Georgios Doukidis"
+    
 ---
 
 ### Abstract
 
-This paper studies an interesting research question. 
+Shoppers enter stores to meet diverse need states, such as getting a soft drink and a bag of potato chips for immediate consumption or purchasing ingredients for meals to make on the same day. The present article introduces the concept of a shopping mission that can be identified by the complementarity and sales affinity among the balanced number of product categories in trips with relatively concrete goals. The authors develop an analytical method to identify several shopping missions at the store level and demonstrate the utility, validity, and replicability of this method using a data set with 4 million baskets from a multinational supermarket chain. The authors also provide evidence that the identification of shopping missions offers a wealth of opportunities for targeted shopper marketing activities.

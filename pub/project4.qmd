@@ -1,0 +1,33 @@
+---
+title: "Effects of increased omnichannel integration on customer satisfaction and loyalty intentions"
+date: "November 27, 2021" # publication date -> year will be in the publication list 
+date-format: "2021" # only display year in item page 
+
+# Below add respective buttons to the list in the research page. To remove buttons that are not needed, just remove the respective link here. 
+publink: "https://doi.org/10.1080/10864415.2021.1967005" # "Paper" button 
+#wplink: "https://eprints.lancs.ac.uk/id/eprint/192034/1/PRVs_manuscript_2023.02.17.pdf"  # "Working Paper" button
+#codelink: "https://github.com/" # "Code" button
+#videolink: "https://www.youtube.com/" # "Video" button
+# Publication information, which appears . 
+journ: "International Journal of Electronic Commerce" 
+issue: "25(4), 440–468"
+
+# Link to the image that will appear in the research list and on the project page. If no image should appear, just remove the link here. 
+#image: "../images/project4.png"
+format: 
+  html:
+    page-layout: article
+    template-partials: 
+      - "../partials/title-block.html" # custom HTML partial that determines how the title block is displayed (with image, author and journal information). 
+
+# Coauthor information that will be displayed on the research list and on the project page. 
+coauthors:
+  - name: "Chris Lazaris" #link: "https://link.to.website/" # add link to co-author's website here. If no link should appear, just remove the link here.
+  - name: "Adam Vrechopoulos"
+  - name: "Georgios Doukidis"
+    
+---
+
+### Abstract
+
+We examine how the integration of retail channels affects crucial firm outcomes, such as customer satisfaction and loyalty intentions, with a particular focus on the impact of different levels of offline-to-online channel integration. Across three experimental studies, one of them in an operating physical store, accommodating comparisons of several omnichannel configurations, increasing the level of omnichannel integration positively influences customer satisfaction and loyalty intentions. Flow experience mediates the effects. The impact of increasing the level of omnichannel integration on customer satisfaction and loyalty intentions is more pronounced among consumers who perceive the channels as complementary and for consumers with a goal-directed shopping orientation. This article contributes to extant omnichannel literature by experimentally investigating the impact of increasing levels of omnichannel integration—as compared to adopting a binary, “either-or” approach—and by demonstrating that omnichannel retail environments provide a fertile ground for flow experiences in physical stores. Furthermore, this article establishes the role of perceived channel complementarity and shopping orientation as boundary conditions for the realization of flow in omnichannel retail environments.

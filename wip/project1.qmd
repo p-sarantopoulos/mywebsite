@@ -1,0 +1,22 @@
+---
+title: "Algorithmic pricing: Effects on consumer trust and price search"
+date: "2024"
+date-format: "YYYY"
+
+format: 
+  html:
+    page-layout: article
+    #image: "../images/wip1.png"
+    template-partials: 
+      - "../partials/title-block.html"
+
+coauthors:
+  - name: "Arnd Vomberg"
+  - name: "Christian Homburg"
+
+---
+
+
+### Abstract 
+
+With the widespread use of pricing algorithms in online markets, prices are increasingly fluctuating, contradicting consumers’ desire for price stability. This research examines the central form of algorithmic pricing in online markets—namely, algorithmic dynamic pricing (ADP). In five studies, including one real-world ADP encounter and four incentive-based experimental studies (in addition to two Web Appendix studies), we use price fairness and range–frequency theory to examine how ADP affects consumers’ trust in ADP retailers and the extent of their price search. The findings reveal that ADP reduces trust in the ADP retailer, though this effect diminishes after consumers become accustomed to ADP. Furthermore, ADP prolongs price search duration, which lengthens with consumer ADP experience and shortens as ADP becomes the market norm. These findings suggest that retailers can implement ADP, as consumer backlash can be short-term. ADP retailers can also actively build consumers’ trust and affect their search for prices through price-matching strategies. In particular, retailers can communicate their use of reactive ADP (i.e., ADP aligned with competitive prices) and offer price-matching guarantees.

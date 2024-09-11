@@ -1,0 +1,31 @@
+---
+title: "The impact of a complement-based assortment organization on purchases"
+date: "March 28, 2019" # publication date -> year will be in the publication list 
+date-format: "2019" # only display year in item page 
+
+# Below add respective buttons to the list in the research page. To remove buttons that are not needed, just remove the respective link here. 
+publink: "https://doi.org/10.1177/0022243718823698" # "Paper" button 
+
+# Publication information, which appears
+journ: "Journal of Marketing Research" 
+issue: "56(3), 459-478"
+
+# Link to the image that will appear in the research list and on the project page. If no image should appear, just remove the link here. 
+#image: "../images/project2.png"
+format: 
+  html:
+    page-layout: article
+    template-partials: 
+      - "../partials/title-block.html" # custom HTML partial that determines how the title block is displayed (with image, author and journal information). 
+
+# Coauthor information that will be displayed on the research list and on the project page. 
+coauthors:
+  - name: "Aristeidis Theotokis"
+  - name: "Katerina Pramatari"
+  - name: "Anne L. Roggeveen"
+    
+---
+
+### Abstract
+
+This article examines whether and why organizing product categories according to the consumption goal they serve (i.e., complement-based assortment organization) may increase purchases compared with organizing product categories according to their attributes or physical characteristics (i.e., substitute-based assortment organization). Across two field experiments, a virtual reality experiment, and a lab experiment, the authors show that a complement-based assortment organization, compared with a substitute-based assortment organization, leads to increased numbers of purchases and increased expenditures. Ease of visualization of the consumption process mediates the results. The impact of the complement-based organization on purchases is more pronounced for less involved consumers and for consumers with a less specific shopping goal. These findings have both theoretical and practical implications.
